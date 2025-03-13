@@ -8,6 +8,9 @@ products:
   - id: ojqmjnoxqygqldsp
     manufacturer: Puppy Kitty
     name: Automatic pet feeder
+  - id: s3rvixmeqx62vud5
+    manufacturer: Catit
+    name: Catit Smart Feeder
 entities:
   - entity: button
     name: Quick Feed
